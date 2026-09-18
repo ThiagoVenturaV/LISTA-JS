@@ -10,4 +10,3 @@ function cumprimentarNomes(array) {
 }
 
 cumprimentarNomes(nomes);
-
